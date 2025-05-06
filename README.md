@@ -1,12 +1,12 @@
-
-#### **Overview**
+# **Banking System**
+### **Overview**
 This project implements a simple banking system using **Python** and **pandas** for data management. Users can:
 - Register and set a secure password
 - Log in and manage their balance
 - Perform banking operations such as deposits, withdrawals, and balance inquiries
 - Store user credentials in an **Excel file (`customer.xlsx`)**
 
-#### **Prerequisites**
+### **Prerequisites**
 Ensure the following are installed:
 - **Python 3.x**
 - **pandas** and **openpyxl** for Excel data processing  
@@ -15,7 +15,7 @@ Ensure the following are installed:
   ```
 - The `customer.xlsx` file will be auto-created if it doesn't exist.
 
-#### **Installation**
+### **Installation**
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-repo/banking-system.git
@@ -27,16 +27,16 @@ Ensure the following are installed:
    python banking_system.py
    ```
 
-#### **Files Included**
+### **Files Included**
 - `banking_system.py` → Main Python script with banking operations  
 - `customer.xlsx` → Stores user data and balances  
 
-#### **Future Enhancements**
+### **Future Enhancements**
 - Implement **GUI** for better user experience  
 - Enhance security features for password encryption  
 - Use a **database** instead of Excel for better scalability  
 
-#### **License**
+### **License**
 This project is open-source and free to use. Contributions and improvements are welcome!
 
 
